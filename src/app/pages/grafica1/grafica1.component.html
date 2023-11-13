@@ -1,1 +1,44 @@
-<p>grafica1 works!</p>
+<div class="row">
+    <div class="col-4">
+        <app-donut title="Sales"
+                   [labels]="labels2" 
+                   [data]="data2"
+        ></app-donut>
+    </div>
+
+    <div class="col-4">
+        <app-donut title="Purchases"
+                   [labels]="labels1" 
+                   [data]="data1"
+       
+                    >
+                    
+        </app-donut>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-4">
+        <app-donut
+                title="Inventarium"
+                [labels]="labels3" 
+                [data]="data3"
+                >
+                
+        </app-donut>
+    </div>
+
+    <div class="col-4">
+        <app-donut title="Changes"
+                   [labels]="labels4" 
+                   [data]="data4"
+        >
+    </app-donut>
+    </div>
+
+</div>
+
+<p>
+    {{ labels1  }}
+</p>

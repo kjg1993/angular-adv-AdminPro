@@ -19,8 +19,6 @@ export class ProgressComponent {
     return `${ this.progress2 }%`
   }
 
-
-
 }
 
 

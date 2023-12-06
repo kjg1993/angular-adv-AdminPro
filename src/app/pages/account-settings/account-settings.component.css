@@ -1,0 +1,86 @@
+/* Light sidebar themes */
+.theme-default {
+    /* Define your default theme color here */
+    /* Example: */
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .theme-green {
+    /* Define your green theme color here */
+    /* Example: */
+    background-color: #4CAF50;
+    color: #ffffff;
+  }
+  
+  .theme-red {
+    /* Define your red theme color here */
+    /* Example: */
+    background-color: #FF5252;
+    color: #ffffff;
+  }
+  
+  .theme-blue {
+    /* Define your blue theme color here */
+    /* Example: */
+    background-color: #2196F3;
+    color: #ffffff;
+  }
+  
+  .theme-purple {
+    /* Define your purple theme color here */
+    /* Example: */
+    background-color: #9C27B0;
+    color: #ffffff;
+  }
+  
+  .theme-megna {
+    /* Define your megna theme color here */
+    /* Example: */
+    background-color: #00BCD4;
+    color: #ffffff;
+  }
+  
+  /* Dark sidebar themes */
+  .theme-default-dark {
+    /* Define your default dark theme color here */
+    /* Example: */
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  .theme-green-dark {
+    /* Define your green dark theme color here */
+    /* Example: */
+    background-color: #388E3C;
+    color: #ffffff;
+  }
+  
+  .theme-red-dark {
+    /* Define your red dark theme color here */
+    /* Example: */
+    background-color: #D32F2F;
+    color: #ffffff;
+  }
+  
+  .theme-blue-dark {
+    /* Define your blue dark theme color here */
+    /* Example: */
+    background-color: #1976D2;
+    color: #ffffff;
+  }
+  
+  .theme-purple-dark {
+    /* Define your purple dark theme color here */
+    /* Example: */
+    background-color: #7B1FA2;
+    color: #ffffff;
+  }
+  
+  .theme-megna-dark {
+    /* Define your megna dark theme color here */
+    /* Example: */
+    background-color: #0097A7;
+    color: #ffffff;
+  }
+  

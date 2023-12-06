@@ -63,12 +63,7 @@ export class Grafica1Component {
     ],
   };
 
-  // public data1: ChartData<'doughnut'> = {
-  //   labels: this.labels1,
-  //   datasets: [
-  //     { data: [10, 15, 40], backgroundColor:['#6857e6','#009fee','#f02059'] },
-  //   ],
-  // };
+
  
 }
 

@@ -8,15 +8,15 @@
     </span>
 
     <input type="number" 
-            [ngClass]="{'is-invalid':'progress >= 100 || progress =< 0 '}"
+            [ngClass]="{'is-invalid': progress >= 100 || progress <= 0 }"
             class="form-control" 
             placeholder="Progress"
             (ngModelChange)="onChange($event)"
             [(ngModel)]= "progress">
 
     <span class="input-group-btn">
+
         <button (click)="changeValue(5)"
-                0.
                 type="button"> 
             <i class="fa fa-plus"></i>
         </button>
